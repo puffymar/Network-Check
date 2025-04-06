@@ -1,2 +1,1 @@
-This repo is essentially a network scraper automation script I created, it checks and returns the devices on the network.
-
+This is essentially a neural network for training your AI of choice. The code is in the Master branch
